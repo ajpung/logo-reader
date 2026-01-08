@@ -22,11 +22,13 @@ Dallas Semiconductor,dallas
 DIA,dia
 Elan,elan
 Epson,epson
+Espressif,espr
 Fairchild,fairchild
 Fujitsu,fujitsu
 General Instrument,general
 Genesys Logic,genesys
 Harris,harris
+Holtek,holtek
 Hynix,hynix
 International Business Machines,ibm
 IC Designs,icdesigns
@@ -37,6 +39,7 @@ Intel,intel
 Integrated Device Technology,idt
 Intersil,intersil
 JRC,jrc
+ITC Intercircuit,itc
 Level One,levelone
 Linear Technology,linear
 Marvell,marvell
@@ -57,6 +60,8 @@ Pericom,pericom
 Philips,philips
 PMI,pmi
 PMC,pmc
+Power Integrations,power
+Qualcomm,qualcomm
 Samsung,samsung
 Sanyo,sanyo
 SEC,sec
@@ -74,3 +79,4 @@ Trident,trident
 Vishay Dale Electronics,vde
 WCH,wch
 Winbond,winbond
+Zilog,zilog
