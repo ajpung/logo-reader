@@ -4,44 +4,70 @@ Brand,Moniker
 Acer,acer
 Actel,actel
 Adaptec,adaptec
+AIT,ait
+Asahi Kasei Microdevices,akm
 Ali,ali
 Alpha Omega,alpha
 Alps Electric,alps
+Altera Semiconductor,altera
 Advanced Microchip Devices,amd
 Analog Devices,analog
+Analogix,analogix
+Bitmain,antminer
 Asani Kasei,asani
+Atari,atari
+ATI Technologies,ati
 Atmel,atmel
+Avago,avago
+Ava Semiconductor,avasem
+Bharat Electronics Limited,bel
 Benchmarq,benchmarq
+Bi Technologies,bi
 Broadcom,broadcom
 California Micro Devices,cmd
+cFeon,cfeon
 Cirrus Logic,cirrus
+California Micro Devices ,cmd
 Creative,creative
 Crystal,crystal
 Cypress,cypress
 Dallas Semiconductor,dallas
 DIA,dia
+DSP,dsp
 Elan,elan
+eMPIA Technology,empia
+Ene,ene
 Epson,epson
 Espressif,espr
+Etron Tech,etron
 Fairchild,fairchild
 Fujitsu,fujitsu
 General Instrument,general
 Genesys Logic,genesys
+Gigo Device,gigo
+GS,gs
 Harris,harris
 Holtek,holtek
 Hynix,hynix
+,iap
 International Business Machines,ibm
 IC Designs,icdesigns
-IC Works,icworks
 ICS Electronics,ics
+IC Works,icworks
+Integrated Device Technology,idt
 Infineon,infineon
 Intel,intel
-Integrated Device Technology,idt
 Intersil,intersil
-JRC,jrc
+Information Storage Devices,isd
 ITC Intercircuit,itc
+ITE Technologies,ite
+JRC,jrc
+KIA Semicon Tech,kia
+Lenovo,lenovo
 Level One,levelone
 Linear Technology,linear
+LSI Logic Corporation,lsi
+"Marvell Technology, Inc.",marvell
 Marvell,marvell
 Matsushita,matsushita
 Maxim,maxim
@@ -53,30 +79,58 @@ Micronas,micronas
 Mitsubishi,mitsubishi
 Motorola,motorola
 M-Star,mstar
+Macronix,mxic
+National Chip,national
 National Semiconductor,natsemi
 NCR Electronics,ncr
+NEC Global,nec
+Neomagic,neomag
+Nextchip,nextchip
+Nuvoton,nuvoton
+NVIDIA,nvidia
+NXP Semiconductors,nxp
+Oki Electric Industry,oki
 On Semiconductor,onsemi
+Panasonic,panasonic
 Pericom,pericom
 Philips,philips
 PMI,pmi
 PMC,pmc
 Power Integrations,power
+Pulse Integrated Technology Inc.,pulse
 Qualcomm,qualcomm
+,rcwl
+Realtek,realtek
+Richard Manufacturing Company,rmc
+RMI Corporation,rmi
+Rockchip,rockchip
+Alpha Rpar,rpar
 Samsung,samsung
 Sanyo,sanyo
 SEC,sec
 Sharp,sharp
 Sigmatel,sigmatel
 Siliconix,siliconix
-SMSC,smsc
 SML,sml
-STMicroelectonics,stm
-Silicon Storage Technology,sst
+SMSC,smsc
 Sony,sony
+Silicon Storage Technology,sst
+StepTech,steptech
+STMicroelectonics,stm
 Texas Instruments,texas
 Toshiba,toshiba
 Trident,trident
+Tseng Labs,tseng
+United Microelectronics,umc
 Vishay Dale Electronics,vde
+VIA Technologies,via
+Vishay Intertechnology,vishay
+Volterra Semiconductor,volterra
 WCH,wch
 Winbond,winbond
+Wilstron ITS,wit
+Xilinx ,xilinx
+XMC,xmc
+Yamaha,yamaha
+Zetex Semiconductors,zetex
 Zilog,zilog
