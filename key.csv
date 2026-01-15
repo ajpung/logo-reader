@@ -50,13 +50,14 @@ Harris,harris
 Holtek,holtek
 Hynix,hynix
 ,iap
-International Business Machines,ibm
 IC Designs,icdesigns
 ICS Electronics,ics
 IC Works,icworks
 Integrated Device Technology,idt
 Infineon,infineon
 Intel,intel
+International Business Machines,ibm
+International Rectifier,internat
 Intersil,intersil
 Information Storage Devices,isd
 ITC Intercircuit,itc
@@ -90,6 +91,7 @@ Nuvoton,nuvoton
 NVIDIA,nvidia
 NXP Semiconductors,nxp
 Oki Electric Industry,oki
+,onkyo
 On Semiconductor,onsemi
 Panasonic,panasonic
 Pericom,pericom
