@@ -65,19 +65,20 @@ ITE Technologies,ite
 JRC,jrc
 KIA Semicon Tech,kia
 Lenovo,lenovo
-Level One,levelone
+Level One Communications,levelone
 Linear Technology,linear
+Littelfuse Technology,littel
 LSI Logic Corporation,lsi
 "Marvell Technology, Inc.",marvell
 Marvell,marvell
-Matsushita,matsushita
+Matsushita Panasonic,matsushita
 Maxim,maxim
 MediaTek,mediatek
 Micrel,micrel
 Microchip Technology,microchip
 MicroClock,microclock
 Micronas,micronas
-Mitsubishi,mitsubishi
+Mitsubishi Semiconductor,mitsubishi
 Motorola,motorola
 M-Star,mstar
 Macronix,mxic
@@ -94,7 +95,7 @@ Oki Electric Industry,oki
 ,onkyo
 On Semiconductor,onsemi
 Panasonic,panasonic
-Pericom,pericom
+Pericom Semiconductor,pericom
 Philips,philips
 PMI,pmi
 PMC,pmc
@@ -118,7 +119,7 @@ SMSC,smsc
 Sony,sony
 Silicon Storage Technology,sst
 StepTech,steptech
-STMicroelectonics,stm
+STMicroelectronics,stm
 Texas Instruments,texas
 Toshiba,toshiba
 Trident,trident
@@ -131,6 +132,7 @@ Volterra Semiconductor,volterra
 WCH,wch
 Winbond,winbond
 Wilstron ITS,wit
+Wurth Elektronic,wurth
 Xilinx ,xilinx
 XMC,xmc
 Yamaha,yamaha
