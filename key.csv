@@ -1,140 +1,150 @@
-Brand,Moniker
-3com,3com
-3dfx,3dfx
-Acer,acer
-Actel,actel
-Adaptec,adaptec
-AIT,ait
-Asahi Kasei Microdevices,akm
-Ali,ali
-Alpha Omega,alpha
-Alps Electric,alps
-Altera Semiconductor,altera
-Advanced Microchip Devices,amd
-Analog Devices,analog
-Analogix,analogix
-Bitmain,antminer
-Asani Kasei,asani
-Atari,atari
-ATI Technologies,ati
-Atmel,atmel
-Avago,avago
-Ava Semiconductor,avasem
-Bharat Electronics Limited,bel
-Benchmarq,benchmarq
-Bi Technologies,bi
-Broadcom,broadcom
-California Micro Devices,cmd
-cFeon,cfeon
-Cirrus Logic,cirrus
-California Micro Devices ,cmd
-Creative,creative
-Crystal,crystal
-Cypress,cypress
-Dallas Semiconductor,dallas
-DIA,dia
-DSP,dsp
-Elan,elan
-eMPIA Technology,empia
-Ene,ene
-Epson,epson
-Espressif,espr
-Etron Tech,etron
-Fairchild,fairchild
-Fujitsu,fujitsu
-General Instrument,general
-Genesys Logic,genesys
-Gigo Device,gigo
-GS,gs
-Harris,harris
-Holtek,holtek
-Hynix,hynix
-,iap
-IC Designs,icdesigns
-ICS Electronics,ics
-IC Works,icworks
-Integrated Device Technology,idt
-Infineon,infineon
-Intel,intel
-International Business Machines,ibm
-Intersil,intersil
-International Rectifier,ir
-Information Storage Devices,isd
-ITC Intercircuit,itc
-ITE Technologies,ite
-JRC,jrc
-KIA Semicon Tech,kia
-Lenovo,lenovo
-Level One Communications,levelone
-Linear Technology,linear
-Littelfuse Technology,littel
-LSI Logic Corporation,lsi
-"Marvell Technology, Inc.",marvell
-Marvell,marvell
-Matsushita Panasonic,matsushita
-Maxim,maxim
-MediaTek,mediatek
-Micrel,micrel
-Microchip Technology,microchip
-MicroClock,microclock
-Micronas,micronas
-Mitsubishi Semiconductor,mitsubishi
-Motorola,motorola
-M-Star,mstar
-Macronix,mxic
-National Chip,national
-National Semiconductor,natsemi
-NCR Electronics,ncr
-NEC Global,nec
-Neomagic,neomag
-Nextchip,nextchip
-Nuvoton,nuvoton
-NVIDIA,nvidia
-NXP Semiconductors,nxp
-Oki Electric Industry,oki
-,onkyo
-On Semiconductor,onsemi
-Panasonic,panasonic
-Pericom Semiconductor,pericom
-Philips,philips
-PMI,pmi
-PMC,pmc
-Power Integrations,power
-Pulse Integrated Technology Inc.,pulse
-Qualcomm,qualcomm
-,rcwl
-Rochester Electronics,re
-Realtek,rmc
-RMI Corporation,rmi
-Rockchip,rockchip
-Alpha Rpar,rpar
-Samsung,samsung
-Sanyo,sanyo
-SEC,sec
-Sharp,sharp
-Sigmatel,sigmatel
-Siliconix,siliconix
-SML,sml
-SMSC,smsc
-Sony,sony
-Silicon Storage Technology,sst
-StepTech,steptech
-STMicroelectronics,stm
-Texas Instruments,texas
-Toshiba,toshiba
-Trident,trident
-Tseng Labs,tseng
-United Microelectronics,umc
-Vishay Dale Electronics,vde
-VIA Technologies,via
-Vishay Intertechnology,vishay
-Volterra Semiconductor,volterra
-WCH,wch
-Winbond,winbond
-Wilstron ITS,wit
-Wurth Elektronic,wurth
-Xilinx ,xilinx
-XMC,xmc
-Yamaha,yamaha
-Zetex Semiconductors,zetex
-Zilog,zilog
+Brand,Moniker,Icon
+3com,3com,
+3dfx,3dfx,
+Acer,acer,
+Actel,actel,
+Adaptec,adaptec,
+AIT,ait,
+Asahi Kasei Microdevices,akm,
+Ali,ali,
+Alpha Omega,alpha,
+Alps Electric,alps,
+Altera Semiconductor,altera,
+Advanced Microchip Devices,amd,
+AMS-Osram,ams,
+Analog Devices,analog,
+Analogix,analogix,
+Anpec Electronics,anpec,
+Bitmain,antminer,
+Asani Kasei,asani,
+ATI Technologies,ati,
+Atmel,atmel,
+Avago,avago,
+Ava Semiconductor,avasem,
+Bharat Electronics Limited,bel,
+Benchmarq,benchmarq,
+Bi Technologies,bi,
+Broadcom,broadcom,
+Bridgetek,bridge,
+California Micro Devices,cmd,
+cFeon,cfeon,
+Cirrus Logic,cirrus,
+California Micro Devices ,cmd,
+Creative,creative,
+Crystal,crystal,
+Cypress,cypress,
+Dallas Semiconductor,dallas,
+DIA,dia,
+DSP,dsp,
+Elan,elan,
+Excelliance MOS Corporation,emc,
+eMPIA Technology,empia,
+Ene,ene,
+Epson,epson,
+Espressif,espr,
+Etron Tech,etron,
+Fairchild,fairchild,
+Fujitsu,fujitsu,
+General Instrument,general,
+Genesys Logic,genesys,
+Gigo Device,gigo,
+GS,gs,
+Harris,harris,
+Holtek,holtek,
+Hynix,hynix,
+,iap,
+IC Designs,icdesigns,
+ICS Electronics,ics,
+IC Works,icworks,
+Integrated Device Technology,idt,
+Infineon,infineon,
+Intel,intel,
+International Business Machines,ibm,
+Intersil,intersil,
+International Rectifier,ir,
+Information Storage Devices,isd,
+ITC Intercircuit,itc,
+ITE Technologies,ite,
+JRC,jrc,
+KIA Semicon Tech,kia,
+Lenovo,lenovo,
+Level One Communications,levelone,
+Linear Technology,linear,
+Littelfuse Technology,littel,
+LSI Logic Corporation,lsi,
+"Marvell Technology, Inc.",marvell,
+Marvell,marvell,
+Matsushita Panasonic,matsushita,
+Maxim,maxim,
+MediaTek,mediatek,
+Micrel,micrel,
+Microchip Technology,microchip,
+MicroClock,microclock,
+Micronas,micronas,
+,microtune,
+Mitsubishi Semiconductor,mitsubishi,
+Motorola,motorola,
+M-Star,mstar,
+Macronix,mxic,
+National Chip,national,
+National Semiconductor,natsemi,
+NCR Electronics,ncr,
+NEC Global,nec,
+Neomagic,neomag,
+Nextchip,nextchip,
+Nuvoton,nuvoton,
+NVIDIA,nvidia,
+NXP Semiconductors,nxp,
+OBD Solutions,obd,
+Oki Electric Industry,oki,
+,onkyo,
+On Semiconductor,onsemi,
+Panasonic,panasonic,
+Parade Technologies,parade,
+Pericom Semiconductor,pericom,
+Philips,philips,
+PMI,pmi,
+PMC,pmc,
+Power Integrations,power,
+Pulse Integrated Technology Inc.,pulse,
+Qualcomm,qualcomm,
+,rcwl,
+Rochester Electronics,re,
+Realtek,rmc,
+RMI Corporation,rmi,
+Rockchip,rockchip,
+Conexant Systems,rockwell,
+Alpha Rpar,rpar,
+Samsung,samsung,
+Sanyo,sanyo,
+SEC,sec,
+Sharp,sharp,
+Sigmatel,sigmatel,
+Siliconix,siliconix,
+SML,sml,
+SMSC,smsc,
+Sony,sony,
+Silicon Storage Technology,sst,
+StepTech,steptech,
+STMicroelectronics,stm,
+Texas Instruments,texas,
+Toshiba,toshiba,
+Trident,trident,
+Tseng Labs,tseng,
+United Microelectronics,umc,
+Vishay Dale Electronics,vde,
+VIA Technologies,via,
+Vishay Intertechnology,vishay,
+VIA-Labs,vli,
+Volterra Semiconductor,volterra,
+WCH,wch,
+Winbond,winbond,
+Wilstron ITS,wit,
+Wurth Elektronic,wurth,
+Wuxi Baitajian Microelectronics Technology Co,wuxi,Picture
+Xilinx ,xilinx,
+XMC,xmc,
+Yamaha,yamaha,
+Zarlink,zarlink,
+Zetex Semiconductors,zetex,
+Zilog,zilog,
