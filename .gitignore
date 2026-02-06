@@ -91,7 +91,7 @@ ipython_config.py
 # Component images
 components
 
-# Model files
+# ML models
 *.pth
 
 # pyenv
